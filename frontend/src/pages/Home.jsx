@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
-    <div className="bg-gray-950 min-h-screen text-white flex flex-col items-center justify-center">
+    <div className="bg-gradient-to-br from-black to-gray-900 min-h-screen text-white flex flex-col items-center justify-center">
       <h1 className="text-4xl font-bold mb-6">Welcome to Jerseys for You</h1>
       <p className="text-lg text-gray-400 mb-4">Find the best jerseys at unbeatable prices!</p>
       
